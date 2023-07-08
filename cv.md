@@ -1,6 +1,6 @@
 # [rsschool-cv](https://alexamorw.github.io/)
 
-# Alexandra Danchenko
+# Alexandra Vodovozova
 
 ## Contacts
 - phone +375 29 562-62-03
