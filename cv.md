@@ -6,7 +6,7 @@
 - phone +375 29 562-62-03
 - email [morningstaralex013@gmail.com](mailto:morningstaralex013@gmail.com)
 - website [alexamorw](https://alexamorw.github.io/)
-- telegram [@alexandra_morningstar](t.me/alexandra_morningstart)
+- telegram [@alexandra_morningstar](https://t.me/alexandra_morningstar)
 - GitHub [alexamorw]()
 
 ## About me
