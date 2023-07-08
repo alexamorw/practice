@@ -1,12 +1,12 @@
-# rsschool-cv
+# [rsschool-cv](https://alexamorw.github.io/)
 
 # Alexandra Vodovozova
 
 ## Contacts
 - phone +375 29 562-62-03
-- email [morningstaralex013@gmail.com](file:///run/user/1000/doc/1e2e52a0/index.html#)
-- website [alexamorw](file:///run/user/1000/doc/1e2e52a0/index.html#)
-- telegram [@alexandra_morningstar](file:///run/user/1000/doc/1e2e52a0/index.html#)
+- email [morningstaralex013@gmail.com](mailto:morningstaralex013@gmail.com)
+- website [alexamorw](https://alexamorw.github.io/)
+- telegram [@alexandra_morningstar](t.me/alexandra_morningstart)
 - GitHub [alexamorw]()
 
 ## About me
@@ -125,5 +125,4 @@ int main()
     system("pause");
     return 0;
 }
-````
 ```
